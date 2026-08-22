@@ -1,84 +1,95 @@
 # Hi, I'm Sumiran Paparkar 👋
 
-🎯 Aspiring Full Stack Java + AI Developer | Pune, India  
-📚 Building in public — Core Java → Spring Boot → React → AI Agents
+**Full Stack Java Developer | Spring Boot · React · MySQL**
+
+I build production-shaped full-stack applications — Spring Boot + JWT-secured REST APIs on the backend, React on the frontend — and ship them with Docker, CI/CD, and live deployments rather than leaving them as local demos. My two main projects are a full-stack e-commerce platform and a bank management system, both deployed and live.
+
+📍 Pune, India · [LinkedIn](https://linkedin.com/in/sumiran-paparkar) · [LeetCode](https://leetcode.com/u/SumiranPaparkar/)
 
 ---
 
-## 🚀 Currently Building
-- ☕ **java-fundamentals** — 125+ programs, completed
-- 🌱 **SpringBoot-Learning** — REST APIs from scratch, Day 1 started
-- 🧩 **LeetCode** — Solving DSA problems daily (Arrays, Strings, DP)
-- 🎯 **Goal** — Job-ready Full Stack Java Developer by end of 2026
+## What I Build
+
+- **Full-stack production-shaped applications** - Spring Boot REST APIs + React frontends, with role-based auth, admin dashboards, and Dockerized deployment (see EliteCart and BankApp Fullstack below)
+- **Backend services in Java & Spring Boot** - JWT authentication, JPA/Hibernate persistence, request validation, OpenAPI docs, and email workflows
+- **Console applications with real engineering discipline** - clean OOP, custom exception hierarchies, file persistence, and JUnit 5 test suites
+- **CI/CD & containerization** - GitHub Actions pipelines and Docker Compose setups deployed to Railway/Render
+- **DSA practice in Java** - working through LeetCode problems across arrays, strings, hashing, and linked lists
 
 ---
 
-## 🛠️ Skills
+## Technical Stack
 
-**Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
+**Backend**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 
-**Database**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Redux](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Tools & DevOps**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![H2](https://img.shields.io/badge/H2-1D1D1D?style=flat) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sumiran3031&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumiran3031&theme=tokyonight&hide_border=true"/>
-<br><br>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sumiran3031&theme=tokyonight&hide_border=true"/>
-</div>
+### [EliteCart](https://github.com/sumiran3031/Elitecart)
+**A full-stack e-commerce platform - Spring Boot backend, React storefront + admin console, built and shipped across 6 phases.**
 
----
+**Tech:** Java 21 · Spring Boot 3.3 · Spring Security 6 (JWT) · Spring Data JPA/Hibernate · MySQL 8 · React 19 · Redux Toolkit · Docker · GitHub Actions
 
-## 📈 Contribution Graph
+- Implemented JWT access/refresh token auth with email verification, password reset, and role-based access (Admin/Customer)
+- Built the full commerce flow - nested categories, search/filter/pagination, cart, wishlist, saved addresses, and multi-method checkout (card, UPI, net banking, COD, wallet) with a mock payment gateway
+- Designed order lifecycle management with automated status emails, customer cancellation, and admin refunds
+- Built an admin console with a Recharts analytics dashboard (revenue trends, category breakdown, top products) and CSV export
+- Documented the system with ER diagrams, architecture docs, and a full Postman collection; containerized with Docker Compose and CI via GitHub Actions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumiran3031&theme=tokyo-night&hide_border=true"/>
-
----
-
-## 🗂️ Featured Repos
-| Repo | Description |
-|------|-------------|
-| [java-fundamentals](https://github.com/sumiran3031/java-fundamentals) | Core Java from scratch — 82+ programs |
-| [LeetCode_Solutions](https://github.com/sumiran3031/LeetCode_Solutions) | DSA solutions in Java |
-| [SpringBoot-Learning](https://github.com/sumiran3031/SpringBoot-Learning) | Spring Boot REST APIs — learning journey from scratch |
-
+[Repository](https://github.com/sumiran3031/Elitecart) · [Live Demo](https://elitecart.sumiranpaparkar.me)
 
 ---
 
-## 🔗 Connect With Me
+### [BankApp Fullstack](https://github.com/sumiran3031/bankapp-fullstack)
+**A full-stack bank management system with JWT authentication and role-based dashboards.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sumiran-paparkar)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/SumiranPaparkar/)
+**Tech:** Java 17 · Spring Boot 3.2 · Spring Security (JWT) · Spring Data JPA · MySQL · React 18 (Vite) · Tailwind CSS
+
+- Built JWT-secured registration/login with role-based access control for Admin and Customer roles
+- Implemented core banking operations — account open/close, deposits, withdrawals, and fund transfers between accounts with full transaction history
+- Built a React admin dashboard with Recharts-based reporting alongside a responsive customer-facing UI (including dark mode)
+- Deployed to production with a custom domain
+
+[Repository](https://github.com/sumiran3031/bankapp-fullstack) · [Live Demo](https://bankapp.sumiranpaparkar.me)
 
 ---
 
-⭐ *Consistency over perfection. Building every day.*
+
+## Engineering Focus
+
+- **Full-stack architecture** - Spring Boot REST APIs paired with React frontends, sharing a clear API contract across two production-deployed apps
+- **Authentication & authorization** - Spring Security with JWT (access/refresh tokens), email verification, and role-based access (Admin/Customer)
+- **Object-oriented design** - custom exception hierarchies, service-layer separation, immutable models
+- **Database & persistence** - Spring Data JPA/Hibernate, MySQL/H2, plus file-based persistence (binary + CSV) in standalone Java projects
+- **Testing** - JUnit 5 suites (20–25+ tests per project) with parameterized tests and isolated I/O testing
+- **CI/CD & containerization** - Docker/Docker Compose, GitHub Actions pipelines, and live deployments on Railway and Render
+- **Problem solving** - daily DSA practice in Java (arrays, strings, hashing, linked lists)
+
+---
+
+## DSA / LeetCode
+
+Solving problems daily in Java, working through arrays & strings, hashing, linked lists, and binary search patterns.
+
+🔗 [LeetCode Profile](https://leetcode.com/u/SumiranPaparkar/) · [Solutions Repository](https://github.com/sumiran3031/LeetCode_Solutions)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sumiran-paparkar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/SumiranPaparkar/)
